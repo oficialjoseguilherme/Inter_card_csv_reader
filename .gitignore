@@ -1,0 +1,15 @@
+# Binaries and object files
+*.o
+*.exe
+*.out
+
+# Build directories (CLion, CMake, etc.)
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# IDE-specific folders
+.idea/
+.vscode/
